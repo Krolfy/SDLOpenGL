@@ -1,0 +1,7 @@
+//Anything you put here will be ignored
+*.o
+*.pro.user*
+.qmake*
+build*
+Makefile
+SDLOpenGL
